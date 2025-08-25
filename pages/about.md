@@ -5,6 +5,6 @@ headshot: /assets/img/headshot.webp
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Ye Zhang
 
-MY NAME IS YE. NICE TO MEET YOU
+My name is Ye. I am a MCP-MUSA student at Weitzman.
