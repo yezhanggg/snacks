@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Ye
-headshot: /assets/img/headshot.webp
+headshot: /assets/img/rdw.png
 permalink: /about
 ---
 
